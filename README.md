@@ -1,6 +1,6 @@
 # KSPatches
 
-A patch pack for Kerbal Space Program, focused on increasing Isp and TWR on rockets..
+A patch pack for Kerbal Space Program, focused on increasing Isp and TWR on rockets.
 
 * [Features](#features)
 * [Dependencies](#dependencies)
