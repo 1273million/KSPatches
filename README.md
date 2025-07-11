@@ -44,15 +44,15 @@ To install, place the KSPatches folder inside your Kerbal Space Program GameData
 This mod includes compatibility patches for the following mods:
 * Making History Expansion: Provides Skiff, Wolfhound, Cheetah engines, and 1.875m + 5m fuel tanks.
 * NF Launch Vehicles: Provides 7.5m and 5m fuel tanks.
-* ReStockPlus: Patches all fuel tanks included there (except the Pug engine.)
+* ReStockPlus: Patches all fuel tanks included there, including the Pug.
 
 ## Contributing
 
-I certainly accept pull requests. My current wishlist is to add support to the ReStockPlus engines, and the remaining stock + DLC engines for the weight reduction patches.
+I certainly accept pull requests.
 
 ## Licensing
 
-This patchset is hereby licensed under the WTFPLv2 license.
+This patchset is hereby licensed under the WTFPLv2 license. It's only a paragraph long, and I'm sure you can get the gist of it.
 
 ```
 DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
