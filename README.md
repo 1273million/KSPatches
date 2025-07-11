@@ -15,8 +15,10 @@ This mod features several improvements to the Isp of a lot of engines, mostly co
 * **Hydrogen Isp** The aerospike, SSME, Rhino, Mammoth, Skipper, Skiff, Poodle, and Mainsail all get hydrogen Isps, in a range of 430-460s.
 * **Methane Isp** The Terrier engine is the only one with this Isp value, one of 358s.
 * **Fluorine Isp** The Wolfhound and Cheetah engines are based on better mixtures than hydrogen.
-  * Wolfhound is based on lithium-fluorine-hydrogen tripropellant, with an Isp of 566s to match.
-  * The Cheetah is based on fluorine-hydrogen, with some magic that makes its plume blue and not green.
+  * The Wolfhound is based on lithium-fluorine-hydrogen tripropellant, with an Isp of 566s to match.
+  	* My headcanon is that this engine has RTGs to accelerate the (incredibly toxic) exhaust by another ~230m/s.
+  	* This is as far as I've learned; I am **not** learning how to edit effects and to use ModuleWaterfallFX.
+  * The Cheetah is based on fluorine-hydrogen, with some magic that makes its plume blue and not faint pink.
   * The Poodle engine was the measuring stick. If anything was better than it, it got an Isp above 470s. Nervs are exempt.
 
 This mod also features fuel tank and engine weight reduction.
@@ -45,6 +47,7 @@ This mod includes compatibility patches for the following mods:
 * Making History Expansion: Provides Skiff, Wolfhound, Cheetah engines, and 1.875m + 5m fuel tanks.
 * NF Launch Vehicles: Provides 7.5m and 5m fuel tanks.
 * ReStockPlus: Patches all fuel tanks included there, including the Pug.
+* Any mod you can think of that adds engines or tanks: because the MM patches apply to every engines and tanks from **every mod**.
 
 ## Contributing
 
