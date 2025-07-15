@@ -5,8 +5,9 @@ A patch pack for Kerbal Space Program, focused on increasing Isp and TWR on rock
 * [Features](#features)
 * [Dependencies](#dependencies)
 * [Installation](#installation)
-* [External Compatibility](#features)
+* [External Compatibility](#installation)
 * [Contributing](#contributing)
+* [Licensing](#licensing)
 
 ## Features
 
@@ -51,7 +52,16 @@ This mod includes compatibility patches for the following mods:
 
 ## Contributing
 
-I certainly accept pull requests.
+I certainly accept pull requests. Add mods on the wishlist to the engine and tank weight adjustments.
+
+### Mod Wishlist
+
+Mods on the wishlist include:
+* Near Future Launch Vehicles by Nertea (done with tanks, patch engines)
+* CryoEngines by Nertea (patch engines)
+* CryoEngines Extensions by Kavaeric (make LFO patch)
+* CryoTanks by Nertea (patch tanks)
+or any mod you can think of that adds engines or fuel tanks. The SpaceY suite comes to mind.
 
 ## Licensing
 
