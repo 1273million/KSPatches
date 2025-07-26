@@ -21,6 +21,7 @@ This mod features several improvements to the Isp of a lot of engines, mostly co
   	* This is as far as I've learned; I am **not** learning how to edit effects and to use ModuleWaterfallFX.
   * The Cheetah is based on fluorine-hydrogen, with some magic that makes its plume blue and not faint pink.
   * The Poodle engine was the measuring stick. If anything was better than it, it got an Isp above 470s. Nervs are exempt.
+ * **Realistic Isp** Edits Isp for Rutherford and Merlin vacuum engines, to around the 345s range.
 
 This mod also features fuel tank and engine weight reduction.
 
