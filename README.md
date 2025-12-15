@@ -26,6 +26,7 @@ This mod features several improvements to the Isp of a lot of engines, mostly co
 This mod also features fuel tank and engine weight reduction.
 
 * All fuel tanks have their dry weight reduced to 1/3 normal.
+* **WORK IN PROGRESS** All fuel tanks and engines from Far Future Technologies are effectively weightless.
 * Engines have their weight reduced by anywhere from 1/2 normal to 1/4 normal.
 
 ## Dependencies
@@ -48,8 +49,8 @@ To install, place the KSPatches folder inside your Kerbal Space Program GameData
 This mod includes compatibility patches for the following mods:
 * Making History Expansion: Provides Skiff, Wolfhound, Cheetah engines, and 1.875m + 5m fuel tanks.
 * NF Launch Vehicles: Provides 7.5m and 5m fuel tanks.
-* ReStockPlus: Patches all fuel tanks included there, including the Pug.
-* Any mod you can think of that adds engines or tanks: because the MM patches apply to every engines and tanks from **every mod**.
+* ReStockPlus: Patches all fuel tanks included there, including the Pug, which gets patched twice.
+* Any mod you can think of that adds engines or tanks: because the MM patches apply to every engines and (LFO) tanks from **every mod**.
 
 ## Contributing
 
@@ -62,6 +63,7 @@ Mods on the wishlist include:
 * CryoEngines by Nertea (patch engines)
 * CryoEngines Extensions by Kavaeric (make LFO patch)
 * CryoTanks by Nertea (patch tanks)
+* ReStockPlus by Nertea (patch Corgi, Caravel, Yorkie, Schnauzer engine Isp)
 or any mod you can think of that adds engines or fuel tanks. The SpaceY suite comes to mind.
 
 ## Licensing
