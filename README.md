@@ -27,7 +27,7 @@ This mod also features fuel tank and engine weight reduction.
 
 * All fuel tanks have their dry weight reduced to 1/3 normal.
 * **WORK IN PROGRESS** All fuel tanks and engines from Far Future Technologies are effectively weightless.
- * This is meant to make city-sized interstellar vehicles feasible, with mass ratios of 10000:1 or higher.
+  * This is meant to make city-sized interstellar vehicles feasible, with mass ratios of 10000:1 or higher.
 * Engines have their weight reduced by anywhere from 1/2 normal to 1/4 normal.
 
 ## Dependencies
